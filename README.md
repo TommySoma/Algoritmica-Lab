@@ -1,3 +1,3 @@
-# Algoritmica-Lab
+# Programmazione1_Lab
 
-Esercizi del corso di Algoritmica
+Esercizi del corso di Programmazione 1 e Laboratorio
